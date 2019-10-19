@@ -1,0 +1,16 @@
+,peak_days,low_days
+HM-NE,Sunday,Friday
+CF-NE,Thursday,Saturday
+FF-NE,Thursday,Saturday
+HM-SW,Friday,Monday
+CF-SW,Monday,Saturday
+FF-SW,Friday,Sunday
+HM-NW,Monday,Sunday
+CF-NW,Thursday,Saturday
+FF-NW,Friday,Sunday
+HM-SE,Saturday,Sunday
+CF-SE,Tuesday,Monday
+FF-SE,Friday,Sunday
+HM-C,Monday,Sunday
+CF-C,Monday,Thursday
+FF-C,Friday,Sunday
